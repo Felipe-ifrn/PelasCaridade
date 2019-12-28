@@ -1,8 +1,3 @@
-/*
-	Phantom by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 (function($) {
 
@@ -91,9 +86,9 @@
 
 	// Menu.
 		var $menu = $('#menu');
-
+		
 		$menu.wrapInner('<div class="inner"></div>');
-
+		
 		$menu._locked = false;
 
 		$menu._lock = function() {
@@ -124,6 +119,7 @@
 				$body.removeClass('is-menu-visible');
 
 		};
+		
 
 		$menu._toggle = function() {
 
@@ -138,6 +134,7 @@
 				event.stopPropagation();
 			})
 			.on('click', 'a', function(event) {
+
 
 				var href = $(this).attr('href');
 
