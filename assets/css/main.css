@@ -2916,12 +2916,13 @@ input, select, textarea {
 						}
 
 						#header nav ul li a[href="#menu"]:before {
-							background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 8px%3B stroke: %23f2849e%3B %7D%3C/style%3E%3Cline x1='0' y1='25' x2='100' y2='25' /%3E%3Cline x1='0' y1='50' x2='100' y2='50' /%3E%3Cline x1='0' y1='75' x2='100' y2='75' /%3E%3C/svg%3E");
+							background-image: url("data:image/svg+xml,%3Csvg width='210' height='297' xmlns='http://www.w3.org/2000/svg' xmlns:svg='http://www.w3.org/2000/svg'%3E%3Cmetadata id='metadata5'%3Eimage/svg+xml%3C/metadata%3E%3Cg%3E%3Ctitle%3ELayer 1%3C/title%3E%3Cg stroke='null' id='layer1'%3E%3Cg stroke='null' id='g3739'%3E%3Crect stroke='null' y='77.49403' x='-13.13166' height='37.70294' width='510.99997' id='rect10' stroke-width='100' fill='%2303871e'/%3E%3Crect stroke='null' y='153.66299' x='-13.1317' height='37.70294' width='510.99997' id='rect10-3' stroke-width='100' fill='%2303871e'/%3E%3Crect stroke='null' y='229.06888' x='-13.1317' height='37.70294' width='510.99997' id='rect10-6' stroke-width='100' fill='%2303871e'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 							opacity: 0;
+							
 						}
 
 						#header nav ul li a[href="#menu"]:after {
-							background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 8px%3B stroke: %23585858%3B %7D%3C/style%3E%3Cline x1='0' y1='25' x2='100' y2='25' /%3E%3Cline x1='0' y1='50' x2='100' y2='50' /%3E%3Cline x1='0' y1='75' x2='100' y2='75' /%3E%3C/svg%3E");
+							background-image: url("data:image/svg+xml,%3Csvg width='210' height='297' xmlns='http://www.w3.org/2000/svg' xmlns:svg='http://www.w3.org/2000/svg'%3E%3Cmetadata id='metadata5'%3Eimage/svg+xml%3C/metadata%3E%3Cg%3E%3Ctitle%3ELayer 1%3C/title%3E%3Cg id='layer1' stroke='null'%3E%3Cg id='g3739' stroke='null'%3E%3Crect fill='%23656b6b' stroke-width='100' id='rect10' width='510.99997' height='37.70294' x='-13.13166' y='77.49403' stroke='null'/%3E%3Crect fill='%23656b6b' stroke-width='100' id='rect10-3' width='510.99997' height='37.70294' x='-13.1317' y='153.66299' stroke='null'/%3E%3Crect fill='%23656b6b' stroke-width='100' id='rect10-6' width='510.99997' height='37.70294' x='-13.1317' y='229.06888' stroke='null'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 							opacity: 1;
 						}
 
